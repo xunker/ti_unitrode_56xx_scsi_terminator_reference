@@ -1,4 +1,4 @@
-Compatibility Information for TI/Unitrode UC[C]56xx series SCSI terminator ICs
+# Compatibility Information for TI/Unitrode UC[C]56xx series SCSI terminator ICs
 
 Information about cross-compatibility between various TI/Unitrode SCSI terminator ICs of the UC[C]56xx family, such as UC5605, UCC5606, etc.
 
