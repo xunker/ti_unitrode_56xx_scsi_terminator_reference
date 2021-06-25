@@ -10,6 +10,10 @@ https://github.com/xunker/ti_unitrode_56xx_scsi_terminator_reference
 
 All ICs are *pin-compatible* with any other IC with the same number of signal lines, but do not always share the same DISCNCT logic levels, termination resistance or feature set.
 
+Examples:
+* UCC5614 can be substituted for UCC5606 if you reverse the logic level to the DISCNCT pin
+* UC5604 can replace UC5603 if you don't need negative clamping on the signal lines
+
 ## 9-Line SE
 ### Termination enabled by driving DISCNCT pin to ground
 
